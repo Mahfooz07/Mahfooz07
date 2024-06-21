@@ -1,5 +1,5 @@
 ![MasterHead](https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png)
-<h1 align="center">Hi 👋, I'm Mahfooz Shakeel</h1>
+<h1 align="center">Hi 👋, I'M Mahfooz Shakeel</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfooz07&label=Profile%20views&color=0e75b6&style=flat" alt="mahfooz07" /> </p>
